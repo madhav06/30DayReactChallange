@@ -1,0 +1,173 @@
+.feature span {
+  color: #df2020;
+}
+
+.feature__title {
+  color: #319da0;
+}
+
+.feature__subtitle {
+  color: #df2020;
+}
+
+.feature__text {
+  color: #7777;
+  font-size: 0.7rem;
+}
+
+.feature__item img {
+  cursor: pointer;
+  transition: 0.6s;
+}
+
+.feature__item:hover img {
+  transform: translateX(30px);
+}
+
+.food__category {
+  background: #6fedd6;
+  text-align: center;
+  margin-top: 30px;
+  padding: 20px 0;
+  border-radius: 12px;
+}
+
+.food__category button {
+  border: none;
+  outline: none;
+  padding: 7px 20px;
+  background: transparent;
+  color: #790252;
+}
+
+.food__category button img {
+  width: 25px;
+  height: 25px;
+}
+
+.tasty__treat-title span {
+  color: #df2020;
+}
+
+.tasty__treat-desc {
+  color: #777;
+  line-height: 28px;
+}
+
+.p__index i {
+  color: #df2020;
+  font-weight: 500 !important;
+}
+
+.choose_us-desc {
+  color: #319da0;
+}
+
+.tasty__title {
+  font-weight: 300;
+  margin-bottom: 2px;
+  color: #319da0;
+}
+
+.testimonial__title {
+  color: #df2020;
+}
+
+.testimonial__title span {
+  color: #319da0;
+}
+
+.testimonial__desc {
+  color: #790252;
+  line-height: 30px;
+}
+
+@media only screen and (max-width: 768) {
+  .hero__service p {
+    font-size: 0.7rem !important;
+  }
+
+  .hero__btns button {
+    padding: 5px 15px;
+    font-size: 0.7rem;
+  }
+
+  .feature__item p {
+    font-size: 0.8rem;
+    margin-bottom: 0;
+  }
+
+  .feature__subtitle {
+    font-size: 1rem;
+  }
+
+  .feature__text {
+    font-size: 0.8rem;
+  }
+
+  .food__category {
+    padding: 5px 15px;
+    font-size: 0.7rem;
+  }
+
+  .testimonial__title {
+    font-size: 0.8rem;
+  }
+
+  .testimonial__desc {
+    font-size: 0.65px;
+  }
+
+  .why__choose-us {
+    padding: 0px;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .hero__content h5 {
+    font-size: 1rem;
+  }
+
+  .hero-content {
+    text-align: center;
+  }
+
+  .hero-content p {
+    font-size: 0.8rem;
+    line-height: 25px;
+  }
+
+  .hero__title {
+    font-size: 1.5rem;
+    line-height: 40px;
+  }
+
+  .hero__btns {
+    justify-content: center;
+  }
+
+  .hero__btns button {
+    padding: 5px 15px;
+    font-size: 0.7rem;
+  }
+
+  .hero__service {
+    justify-content: center;
+  }
+
+  .feature__item h5 {
+    font-size: 0.9rem;
+  }
+
+  .feature__item hp {
+    font-size: 0.8rem;
+  }
+
+  .testimonial__title {
+    font-size: 0.7rem;
+  }
+
+  .why__choose-us {
+    padding: 0px;
+  }
+}

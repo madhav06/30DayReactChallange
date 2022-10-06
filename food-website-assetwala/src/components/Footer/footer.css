@@ -1,0 +1,150 @@
+.footer {
+  padding: 50px 0px;
+  background: #790252;
+}
+
+.footer__logo img {
+  width: calc(100% - 80%);
+  margin-top: 0.2rem;
+  margin-bottom: 00.6rem;
+}
+
+.footer__logo h5 {
+  font-weight: 600;
+  font-size: 1rem;
+  color: #f9f9f9;
+  line-height: 25px;
+  margin-bottom: 15px;
+}
+
+.footer__title {
+  font-weight: 600;
+  font-size: 1rem;
+  color: #f9f9f9;
+}
+.footer__logo p {
+  font-size: 0.8rem;
+  color: #f9f9f9;
+  line-height: 18px;
+}
+
+.order__now-item {
+  background: transparent !important;
+}
+
+.order__now-item p {
+  color: #f9f9f9;
+  font-size: 0.6rem;
+  cursor: pointer;
+}
+
+.visit__veganhut-item {
+  background: transparent !important;
+}
+
+.visit__veganhut-item p {
+  color: #f9f9f9;
+  font-size: 0.6rem;
+  cursor: pointer;
+}
+
+.our__policies-item {
+  background: transparent !important;
+}
+
+.our__policies-item p {
+  color: #f9f9f9;
+  font-size: 0.6rem;
+  cursor: pointer;
+}
+
+/* margin-top: 0.2rem;
+  margin-bottom: 00.6rem; */
+
+.fssai__logo img {
+  width: calc(100% - 80%);
+  margin-top: 0.2rem;
+  margin-bottom: 0.8rem;
+  border-radius: 10px;
+}
+
+.fssai__logo Button {
+  width: calc(100% - 60%);
+  margin-bottom: 0.8rem;
+  margin-top: 3rem;
+}
+
+.social__links span i {
+  padding: 5px;
+  background: #212245;
+  color: #f9f9f9;
+  border-radius: 50%;
+}
+
+.copyright__text {
+  font-size: 12px;
+  color: #f9f9f9;
+}
+
+.social__links p {
+  color: #f9f9f9;
+}
+
+.social__links a {
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 768px) {
+  .order__now p {
+    font-size: 0.8rem;
+  }
+
+  .visit__veganhut p {
+    font-size: 0.8rem;
+  }
+
+  .our__policies p {
+    font-size: 0.8rem;
+  }
+
+  .fssai__logo img {
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+  }
+  .feedback__button {
+    font-size: 0.7rem;
+  }
+
+  .feedback__button:hover img {
+    transform: scale(1.25);
+  }
+
+  .copyright__text {
+    font-size: 0.8rem;
+    color: #f9f9f9;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .social__links {
+    justify-content: center;
+  }
+
+  .social__links p {
+    font-size: 0.8rem;
+  }
+
+  .social__links span {
+    padding: 4px;
+  }
+
+  .social__links span a {
+    font-size: 0.8rem;
+  }
+
+  .copyright__text {
+    font-size: 0.8rem;
+    color: #f9f9f9;
+  }
+}
