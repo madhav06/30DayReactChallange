@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&family=Poppins:wght@400;500;600&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    background: linear-gradient(#e98f9a 0%, #7794d3 100%);
+}
+
+.search {
+    width: 300px;
+    height: 50px;
+    margin-top: 3rem;
+    padding: 12px 20px 12px 20px;
+    display: flex;
+    flex-direction: row; 
+    margin-left: 3rem;
+    border-radius: 24px;
+    margin-bottom: 3rem;
+    transition: transform 0.5s ease;
+    
+}
+
+.search:hover {
+    transform: scale(0.98);
+
+}
+
+.row {
+    display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        height: 5rem;
+        border-bottom: 1px solid rgb(41, 8, 75);
+        width: 900px;
+}
+
+.header {
+    font-size: 18px;
+    color: rgb(74, 16, 137);
+}
+
+.data {
+    font-size: 15px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding-right: 24px;
+    margin-top: 1.2rem;
+    color: rgb(6, 100, 92);
+    justify-content: space-between;
+}
+
+.data:hover {
+    transform: scaleY(1.52);
+}
+
+
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 960px) {
+    display: 0;
+}
