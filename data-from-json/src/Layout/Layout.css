@@ -1,0 +1,52 @@
+.details {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #256d85;
+}
+
+.records .id {
+  color: #790252;
+}
+
+.records .ident {
+  color: #af0171;
+}
+
+.records .type {
+  color: #e80f88;
+}
+
+.records .name {
+  color: #1c6758;
+}
+.records .region {
+  color: #3d8361;
+}
+.operating {
+  color: #90b77d;
+}
+
+.records .lat,
+.long,
+.elev {
+  color: #937dc2;
+}
+
+.records .iata,
+.continent,
+.muni,
+.score,
+.updated {
+  color: #4c6793;
+}
+
+.records .web,
+.wiki {
+  color: #562b08;
+  text-shadow: #4c6793;
+}
+
+.records {
+  border-bottom: 1px solid #000;
+}

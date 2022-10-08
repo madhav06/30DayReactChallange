@@ -1,0 +1,450 @@
+[
+  {
+    "Global Rank": 121,
+    "Company": "Reliance Industries",
+    "Sales ($billion)": 70.3,
+    "Profits ($billion)": 3.9,
+    "Assets ($billion)": 64.2,
+    "Market Value ($billion)": 50.4
+  },
+  {
+    "Global Rank": 136,
+    "Company": "State Bank of India",
+    "Sales ($billion)": 35.1,
+    "Profits ($billion)": 3,
+    "Assets ($billion)": 359.1,
+    "Market Value ($billion)": 28.1
+  },
+  {
+    "Global Rank": 155,
+    "Company": "Oil & Natural Gas",
+    "Sales ($billion)": 28.9,
+    "Profits ($billion)": 5.5,
+    "Assets ($billion)": 52.1,
+    "Market Value ($billion)": 50.5
+  },
+  {
+    "Global Rank": 309,
+    "Company": "ICICI Bank",
+    "Sales ($billion)": 13.2,
+    "Profits ($billion)": 1.5,
+    "Assets ($billion)": 118,
+    "Market Value ($billion)": 22.8
+  },
+  {
+    "Global Rank": 334,
+    "Company": "Tata Motors",
+    "Sales ($billion)": 32.6,
+    "Profits ($billion)": 2.7,
+    "Assets ($billion)": 27.6,
+    "Market Value ($billion)": 15.9
+  },
+  {
+    "Global Rank": 350,
+    "Company": "Indian Oil",
+    "Sales ($billion)": 70.8,
+    "Profits ($billion)": 0.8,
+    "Assets ($billion)": 43.2,
+    "Market Value ($billion)": 14.2
+  },
+  {
+    "Global Rank": 377,
+    "Company": "Coal India",
+    "Sales ($billion)": 12.3,
+    "Profits ($billion)": 2.9,
+    "Assets ($billion)": 20.8,
+    "Market Value ($billion)": 37.4
+  },
+  {
+    "Global Rank": 384,
+    "Company": "NTPC",
+    "Sales ($billion)": 12.8,
+    "Profits ($billion)": 1.9,
+    "Assets ($billion)": 30.5,
+    "Market Value ($billion)": 22.3
+  },
+  {
+    "Global Rank": 456,
+    "Company": "Bharti Airtel",
+    "Sales ($billion)": 14,
+    "Profits ($billion)": 0.8,
+    "Assets ($billion)": 29.8,
+    "Market Value ($billion)": 21.8
+  },
+  {
+    "Global Rank": 463,
+    "Company": "HDFC Bank",
+    "Sales ($billion)": 6.5,
+    "Profits ($billion)": 1,
+    "Assets ($billion)": 66.7,
+    "Market Value ($billion)": 28.1
+  },
+  {
+    "Global Rank": 527,
+    "Company": "Larsen & Toubro",
+    "Sales ($billion)": 12.6,
+    "Profits ($billion)": 0.9,
+    "Assets ($billion)": 23.8,
+    "Market Value ($billion)": 17.2
+  },
+  {
+    "Global Rank": 561,
+    "Company": "HDFC",
+    "Sales ($billion)": 5.9,
+    "Profits ($billion)": 1.1,
+    "Assets ($billion)": 41.6,
+    "Market Value ($billion)": 23.3
+  },
+  {
+    "Global Rank": 590,
+    "Company": "Tata Steel",
+    "Sales ($billion)": 26.1,
+    "Profits ($billion)": 1,
+    "Assets ($billion)": 28.8,
+    "Market Value ($billion)": 6.4
+  },
+  {
+    "Global Rank": 636,
+    "Company": "Tata Consultancy Services",
+    "Sales ($billion)": 9.6,
+    "Profits ($billion)": 2,
+    "Assets ($billion)": 8.1,
+    "Market Value ($billion)": 56.9
+  },
+  {
+    "Global Rank": 678,
+    "Company": "Axis Bank",
+    "Sales ($billion)": 5.3,
+    "Profits ($billion)": 0.8,
+    "Assets ($billion)": 55.8,
+    "Market Value ($billion)": 11.6
+  },
+  {
+    "Global Rank": 717,
+    "Company": "Punjab National Bank",
+    "Sales ($billion)": 8.2,
+    "Profits ($billion)": 1,
+    "Assets ($billion)": 92.3,
+    "Market Value ($billion)": 5
+  },
+  {
+    "Global Rank": 727,
+    "Company": "Bank of Baroda",
+    "Sales ($billion)": 6.8,
+    "Profits ($billion)": 1,
+    "Assets ($billion)": 89.8,
+    "Market Value ($billion)": 5.5
+  },
+  {
+    "Global Rank": 770,
+    "Company": "Bharat Heavy Electicals",
+    "Sales ($billion)": 9.4,
+    "Profits ($billion)": 1.4,
+    "Assets ($billion)": 12.9,
+    "Market Value ($billion)": 9
+  },
+  {
+    "Global Rank": 788,
+    "Company": "Infosys",
+    "Sales ($billion)": 6.6,
+    "Profits ($billion)": 1.6,
+    "Assets ($billion)": 7.5,
+    "Market Value ($billion)": 30.5
+  },
+  {
+    "Global Rank": 812,
+    "Company": "Wipro",
+    "Sales ($billion)": 7.3,
+    "Profits ($billion)": 1.1,
+    "Assets ($billion)": 8.5,
+    "Market Value ($billion)": 20.1
+  },
+  {
+    "Global Rank": 816,
+    "Company": "Mahindra & Mahindra",
+    "Sales ($billion)": 10.9,
+    "Profits ($billion)": 0.6,
+    "Assets ($billion)": 12.5,
+    "Market Value ($billion)": 10.5
+  },
+  {
+    "Global Rank": 841,
+    "Company": "ITC",
+    "Sales ($billion)": 5.2,
+    "Profits ($billion)": 1.2,
+    "Assets ($billion)": 5.9,
+    "Market Value ($billion)": 44.1
+  },
+  {
+    "Global Rank": 895,
+    "Company": "Hindalco Industries",
+    "Sales ($billion)": 15.8,
+    "Profits ($billion)": 0.7,
+    "Assets ($billion)": 19.9,
+    "Market Value ($billion)": 3.4
+  },
+  {
+    "Global Rank": 920,
+    "Company": "Canara Bank",
+    "Sales ($billion)": 6.7,
+    "Profits ($billion)": 0.7,
+    "Assets ($billion)": 74.4,
+    "Market Value ($billion)": 3.5
+  },
+  {
+    "Global Rank": 962,
+    "Company": "GAIL India",
+    "Sales ($billion)": 8.7,
+    "Profits ($billion)": 0.9,
+    "Assets ($billion)": 10,
+    "Market Value ($billion)": 7.6
+  },
+  {
+    "Global Rank": 973,
+    "Company": "Bank of India",
+    "Sales ($billion)": 6.3,
+    "Profits ($billion)": 0.5,
+    "Assets ($billion)": 76.1,
+    "Market Value ($billion)": 3.4
+  },
+  {
+    "Global Rank": 985,
+    "Company": "Steel Authority of India",
+    "Sales ($billion)": 9,
+    "Profits ($billion)": 0.7,
+    "Assets ($billion)": 15.4,
+    "Market Value ($billion)": 5.3
+  },
+  {
+    "Global Rank": 1056,
+    "Company": "Power Grid of India",
+    "Sales ($billion)": 2,
+    "Profits ($billion)": 0.6,
+    "Assets ($billion)": 18.2,
+    "Market Value ($billion)": 9.3
+  },
+  {
+    "Global Rank": 1112,
+    "Company": "Bharat Petroleum",
+    "Sales ($billion)": 36.7,
+    "Profits ($billion)": 0.2,
+    "Assets ($billion)": 15.3,
+    "Market Value ($billion)": 15.4
+  },
+  {
+    "Global Rank": 1174,
+    "Company": "NMDC",
+    "Sales ($billion)": 2.2,
+    "Profits ($billion)": 1.4,
+    "Assets ($billion)": 6.9,
+    "Market Value ($billion)": 10.6
+  },
+  {
+    "Global Rank": 1183,
+    "Company": "Adani Enterprises",
+    "Sales ($billion)": 7.7,
+    "Profits ($billion)": 0.4,
+    "Assets ($billion)": 21,
+    "Market Value ($billion)": 4.9
+  },
+  {
+    "Global Rank": 1197,
+    "Company": "IDBI Bank",
+    "Sales ($billion)": 5,
+    "Profits ($billion)": 0.4,
+    "Assets ($billion)": 56.9,
+    "Market Value ($billion)": 2.1
+  },
+  {
+    "Global Rank": 1217,
+    "Company": "Hindustan Petroleum",
+    "Sales ($billion)": 32.6,
+    "Profits ($billion)": 0,
+    "Assets ($billion)": 16.8,
+    "Market Value ($billion)": 1.9
+  },
+  {
+    "Global Rank": 1251,
+    "Company": "Power Finance",
+    "Sales ($billion)": 2.6,
+    "Profits ($billion)": 0.6,
+    "Assets ($billion)": 26.5,
+    "Market Value ($billion)": 4.9
+  },
+  {
+    "Global Rank": 1266,
+    "Company": "Kotak Mahindra Bank",
+    "Sales ($billion)": 2.6,
+    "Profits ($billion)": 0.4,
+    "Assets ($billion)": 18.1,
+    "Market Value ($billion)": 9.2
+  },
+  {
+    "Global Rank": 1320,
+    "Company": "Union Bank of India",
+    "Sales ($billion)": 4.6,
+    "Profits ($billion)": 0.3,
+    "Assets ($billion)": 51.7,
+    "Market Value ($billion)": 2.4
+  },
+  {
+    "Global Rank": 1325,
+    "Company": "Sun Pharma Industries",
+    "Sales ($billion)": 1.6,
+    "Profits ($billion)": 0.5,
+    "Assets ($billion)": 3.1,
+    "Market Value ($billion)": 16
+  },
+  {
+    "Global Rank": 1416,
+    "Company": "Bajaj Auto",
+    "Sales ($billion)": 3.7,
+    "Profits ($billion)": 0.6,
+    "Assets ($billion)": 2.2,
+    "Market Value ($billion)": 9.9
+  },
+  {
+    "Global Rank": 1429,
+    "Company": "Rural Electrification",
+    "Sales ($billion)": 2.1,
+    "Profits ($billion)": 0.6,
+    "Assets ($billion)": 21.7,
+    "Market Value ($billion)": 4.1
+  },
+  {
+    "Global Rank": 1466,
+    "Company": "Allahabad Bank",
+    "Sales ($billion)": 3.3,
+    "Profits ($billion)": 0.4,
+    "Assets ($billion)": 36,
+    "Market Value ($billion)": 1.3
+  },
+  {
+    "Global Rank": 1497,
+    "Company": "Jindal Steel & Power",
+    "Sales ($billion)": 3.6,
+    "Profits ($billion)": 0.8,
+    "Assets ($billion)": 8.8,
+    "Market Value ($billion)": 6.2
+  },
+  {
+    "Global Rank": 1534,
+    "Company": "HCL Technologies",
+    "Sales ($billion)": 3.8,
+    "Profits ($billion)": 0.4,
+    "Assets ($billion)": 3.2,
+    "Market Value ($billion)": 10.2
+  },
+  {
+    "Global Rank": 1581,
+    "Company": "Indian Bank",
+    "Sales ($billion)": 2.6,
+    "Profits ($billion)": 0.3,
+    "Assets ($billion)": 27.5,
+    "Market Value ($billion)": 1.4
+  },
+  {
+    "Global Rank": 1620,
+    "Company": "NHPC",
+    "Sales ($billion)": 1.4,
+    "Profits ($billion)": 0.6,
+    "Assets ($billion)": 11.8,
+    "Market Value ($billion)": 4.6
+  },
+  {
+    "Global Rank": 1638,
+    "Company": "Oil India",
+    "Sales ($billion)": 1.9,
+    "Profits ($billion)": 0.7,
+    "Assets ($billion)": 4.5,
+    "Market Value ($billion)": 6.1
+  },
+  {
+    "Global Rank": 1656,
+    "Company": "Corporation Bank",
+    "Sales ($billion)": 2.9,
+    "Profits ($billion)": 0.3,
+    "Assets ($billion)": 32.1,
+    "Market Value ($billion)": 1.1
+  },
+  {
+    "Global Rank": 1674,
+    "Company": "Hero MotoCorp",
+    "Sales ($billion)": 4.6,
+    "Profits ($billion)": 0.5,
+    "Assets ($billion)": 1.9,
+    "Market Value ($billion)": 6.2
+  },
+  {
+    "Global Rank": 1708,
+    "Company": "Central Bank of India",
+    "Sales ($billion)": 4,
+    "Profits ($billion)": 0.1,
+    "Assets ($billion)": 45.2,
+    "Market Value ($billion)": 1
+  },
+  {
+    "Global Rank": 1720,
+    "Company": "Grasim Industries",
+    "Sales ($billion)": 4.9,
+    "Profits ($billion)": 0.5,
+    "Assets ($billion)": 7.2,
+    "Market Value ($billion)": 5
+  },
+  {
+    "Global Rank": 1729,
+    "Company": "Syndicate Bank",
+    "Sales ($billion)": 3.2,
+    "Profits ($billion)": 0.3,
+    "Assets ($billion)": 35.8,
+    "Market Value ($billion)": 1.3
+  },
+  {
+    "Global Rank": 1749,
+    "Company": "Indian Overseas Bank",
+    "Sales ($billion)": 3.9,
+    "Profits ($billion)": 0.2,
+    "Assets ($billion)": 43.1,
+    "Market Value ($billion)": 1
+  },
+  {
+    "Global Rank": 1775,
+    "Company": "DLF",
+    "Sales ($billion)": 1.9,
+    "Profits ($billion)": 0.2,
+    "Assets ($billion)": 12.4,
+    "Market Value ($billion)": 8.6
+  },
+  {
+    "Global Rank": 1818,
+    "Company": "UCO Bank",
+    "Sales ($billion)": 3.1,
+    "Profits ($billion)": 0.2,
+    "Assets ($billion)": 35.4,
+    "Market Value ($billion)": 0.7
+  },
+  {
+    "Global Rank": 1827,
+    "Company": "Oriental Bank of Commerce",
+    "Sales ($billion)": 3.4,
+    "Profits ($billion)": 0.2,
+    "Assets ($billion)": 35,
+    "Market Value ($billion)": 1.5
+  },
+  {
+    "Global Rank": 1878,
+    "Company": "Andhra Bank",
+    "Sales ($billion)": 2.5,
+    "Profits ($billion)": 0.3,
+    "Assets ($billion)": 24.7,
+    "Market Value ($billion)": 1
+  },
+  {
+    "Global Rank": 1984,
+    "Company": "Reliance Infrastructure",
+    "Sales ($billion)": 4.7,
+    "Profits ($billion)": 0.3,
+    "Assets ($billion)": 12.1,
+    "Market Value ($billion)": 2
+  }
+]
