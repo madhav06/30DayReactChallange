@@ -14,12 +14,6 @@
 
 ![Link to project](https://github.com/madhav06/projectImages/blob/master/figma2react.png?raw=true)
 
-#### Day11
-
----
-
-![Link to project](https://raw.githubusercontent.com/madhav06/projectImages/ba8551648604bf65bb55c80de7f355e9bfeef017/crypto-tracker.jpg?token=ABYAFMT6XYO3QW3VT6YRZKLDIVU24)
-
 #### Day16: Working with Airport API.
 
 ---
@@ -44,7 +38,13 @@
 
 ![Link to project](https://github.com/madhav06/projectImages/blob/master/pricing-card.png?raw=true)
 
-#### Day 04
+#### Day05
+
+---
+
+![Link to project](https://github.com/madhav06/projectImages/blob/master/js-swiper-project.png?raw=true)
+
+#### Day 04: Working with Cat API
 
 ---
 
@@ -55,3 +55,15 @@
 ---
 
 ![Link to project](https://github.com/madhav06/projectImages/blob/master/search-filter.jpg?raw=true)
+
+#### Day01
+
+---
+
+![Link to project](https://github.com/madhav06/projectImages/blob/master/productbanner.jpg?raw=true)
+
+#### Day00
+
+---
+
+![Link to project](https://github.com/madhav06/projectImages/blob/master/homepage_01.png?raw=true)
