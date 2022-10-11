@@ -6,7 +6,7 @@
 
 ---
 
-![Link to project](https://raw.githubusercontent.com/madhav06/projectImages/a3bf2507f1d39d8e5abcfaa54ce738ebf5b859ac/youtube-clone.png?token=ABYAFMRGH4NNV7PFFZB2LN3DIVTDK)
+![Link to project](https://github.com/madhav06/projectImages/blob/master/youtube-clone.png?raw=true)
 
 #### Day14
 
