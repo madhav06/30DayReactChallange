@@ -12,34 +12,46 @@
 
 ---
 
-![Link to project](https://raw.githubusercontent.com/madhav06/projectImages/a3bf2507f1d39d8e5abcfaa54ce738ebf5b859ac/figma2react.png?token=ABYAFMQ7A4GIHHRLW4PHI5TDIVTDK)
+![Link to project](https://github.com/madhav06/projectImages/blob/master/figma2react.png?raw=true)
 
 #### Day11
 
 ---
 
-![Link to project](https://raw.githubusercontent.com/madhav06/projectImages/ba8551648604bf65bb55c80de7f355e9bfeef017/crypto-tracker.jpg?token=ABYAFMRLGQ436FA3MBJ2YADDIVSZI)
+![Link to project](https://raw.githubusercontent.com/madhav06/projectImages/ba8551648604bf65bb55c80de7f355e9bfeef017/crypto-tracker.jpg?token=ABYAFMT6XYO3QW3VT6YRZKLDIVU24)
 
 #### Day16: Working with Airport API.
 
 ---
 
-![Link to project](https://raw.githubusercontent.com/madhav06/projectImages/a3bf2507f1d39d8e5abcfaa54ce738ebf5b859ac/data2json.png?token=ABYAFMQXEQ2NLDKZ2SP4NM3DIVTDK)
+![Link to project](https://github.com/madhav06/projectImages/blob/master/data2json.png?raw=true)
 
 #### Day13
 
 ---
 
-![Link to project](https://raw.githubusercontent.com/madhav06/projectImages/a3bf2507f1d39d8e5abcfaa54ce738ebf5b859ac/pizza-assets.png?token=ABYAFMXZFVLIH2BGUTQBW53DIVTDK)
+![Link to project](https://github.com/madhav06/projectImages/blob/master/pizza-assets.png?raw=true)
 
 #### Day07
 
 ---
 
-![Link to project](https://raw.githubusercontent.com/madhav06/projectImages/a3bf2507f1d39d8e5abcfaa54ce738ebf5b859ac/sidebar.png?token=ABYAFMQM5CPSJSL3JXPLUXLDIVTDK)
+![Link to project](https://github.com/madhav06/projectImages/blob/master/sidebar.png?raw=true)
 
 #### Day06
 
 ---
 
-![Link to project](https://raw.githubusercontent.com/madhav06/projectImages/a3bf2507f1d39d8e5abcfaa54ce738ebf5b859ac/pricing-card.png?token=ABYAFMQ24X2DNEFFVB2RUW3DIVTDK)
+![Link to project](https://github.com/madhav06/projectImages/blob/master/pricing-card.png?raw=true)
+
+#### Day 04
+
+---
+
+![Link to project](https://github.com/madhav06/projectImages/blob/master/cat-api.png?raw=true)
+
+#### Day02
+
+---
+
+![Link to project](https://github.com/madhav06/projectImages/blob/master/search-filter.jpg?raw=true)
