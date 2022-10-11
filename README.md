@@ -56,7 +56,7 @@
 
 ![Link to project](https://github.com/madhav06/projectImages/blob/master/cat-api.png?raw=true)
 
-#### Day02
+#### Day02: Search Filter with API
 
 ---
 
